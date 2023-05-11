@@ -1,0 +1,4 @@
+pyautogui==0.9.53
+keyboard==0.13.5
+pygetwindow==0.0.9
+colorama==0.4.4
